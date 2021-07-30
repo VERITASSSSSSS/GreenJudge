@@ -27,4 +27,4 @@
 # Others
 | # | Name | Description |
 | --- | --- | --- | 
-| 1 |沒小數|[C++](https://github.com/VERITASSSSSSS/GreenJudge/blob/master/20lottery2.cpp) | 
+| 1 |沒小數|[C++](https://github.com/VERITASSSSSSS/GreenJudge/commit/6adaad5b0e3e0d21c58839b52f3856a8827aaeb0) | 
