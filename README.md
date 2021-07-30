@@ -28,3 +28,4 @@
 | # | Name | Description |
 | --- | --- | --- | 
 | 1 |沒小數|[C++](https://github.com/VERITASSSSSSS/GreenJudge/commit/6adaad5b0e3e0d21c58839b52f3856a8827aaeb0) | 
+| 2 |記憶體| 看執行的cpu | 
