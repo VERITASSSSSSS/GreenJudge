@@ -23,3 +23,8 @@
 | 17 | [下午茶時間]() | [C++](https://github.com/VERITASSSSSSS/GreenJudge/blob/master/18teatime.cpp) | Easy |  7.29.2021 | |
 | 18 | [瓜瓜樂1]() | [C++](https://github.com/VERITASSSSSSS/GreenJudge/blob/master/19lottery1.cpp) | Easy |  7.29.2021 | |
 | 19 | [瓜瓜樂2]() | [C++](https://github.com/VERITASSSSSSS/GreenJudge/blob/master/20lottery2.cpp) | Easy |  7.29.2021 | |
+
+# Others
+| # | Name | Description |
+| --- | --- | --- | 
+| 1 |沒小數|[C++](https://github.com/VERITASSSSSSS/GreenJudge/blob/master/20lottery2.cpp) | 
