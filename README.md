@@ -23,8 +23,6 @@
 | 18 | [下午茶時間]() | [C++](https://github.com/VERITASSSSSSS/GreenJudge/blob/master/18teatime.cpp) | Easy |  7.29.2021 | |
 | 19 | [瓜瓜樂1]() | [C++](https://github.com/VERITASSSSSSS/GreenJudge/blob/master/19lottery1.md) | Easy |  7.29.2021 | |
 | 20 | [瓜瓜樂2]() | [C++](https://github.com/VERITASSSSSSS/GreenJudge/blob/master/20lottery2.cpp) | Easy |  7.29.2021 | |
-
-
 | 21 | [	我討厭偶數 ]() | [C++]() | Easy |  7.29.2021 | |
 | 22 | [	細菌繁殖  ]() | [C++](https://github.com/VERITASSSSSSS/GreenJudge/blob/master/22.germscpp.cpp) | Easy |  8.2.2021 | |
 | 23 | [	3N+1 ]() | [C++](https://github.com/VERITASSSSSSS/GreenJudge/blob/master/23_3N%2B1.cpp) | Easy |   8.2.2021 | |
