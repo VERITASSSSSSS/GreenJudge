@@ -31,8 +31,8 @@
 | 26 | [	一千遍我愛你]() | [C++](https://github.com/VERITASSSSSSS/GreenJudge/blob/master/26iluvuthousand.cpp) | Easy |  8.2.2021 | |
 | 27 | [	倒數計時 ]() | [C++](https://github.com/VERITASSSSSSS/GreenJudge/blob/master/27countdown.cpp) | Med |   8.2.2021 | |
 | *28 | [	P(N,R)]() | [C++](https://github.com/VERITASSSSSSS/GreenJudge/blob/master/28pnr.cpp) | Hard |   8.2.2021 | how |
-| *29 | [	連續整數相加(一) ]() | [C++](https://github.com/VERITASSSSSSS/GreenJudge/blob/master/18teatime.cpp) | Hard |  8.2.2021 | redundant +  |
-|* 30 | [	連續整數相加(二)]() | [C++](https://github.com/VERITASSSSSSS/GreenJudge/blob/master/19lottery1.md) | Hard |   8.2.2021 | redundant + |
+| *29 | [	連續整數相加(一) ]() | [C++](https://github.com/VERITASSSSSSS/GreenJudge/blob/master/29add1.cpp) | Hard |  8.2.2021 | redundant +  |
+|* 30 | [	連續整數相加(二)]() | [C++](https://github.com/VERITASSSSSSS/GreenJudge/blob/master/30add2.cpp) | Hard |   8.2.2021 | redundant + |
 
 
 # Others
